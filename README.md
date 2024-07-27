@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm passionate about technology and coding, with e
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)-->
 
 ## 📫 How to Reach Me
-- *Email:* [your-email@example.com](mailto:your-email@example.com)
-- *LinkedIn:* [Nikhil Dwivedi](https://www.linkedin.com/in/yourusername)
-- *Twitter:* [@yourusername](https://twitter.com/yourusername)
+- *Email:* [rashi11sharma08@gmail.com](mailto:your-email@example.com)
+- *LinkedIn:* [Rashi Sharma](https://www.linkedin.com/in/yourusername)
+
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate on any project!
 
